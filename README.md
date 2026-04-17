@@ -1,39 +1,39 @@
 # QA-Portfolio
 
-# 🧪 QA Testing Portfolio - Ishini Sandeepani
 
-## 📌 Project Overview
+
+## Project Overview
 
 This repository contains my QA testing work including test cases, bug reports, and testing documentation.
 
-## 🎯 Scope
+##  Scope
 
 * Functional Testing
 * Manual Testing
 * Basic API Testing
 * Automation (Learning Phase)
 
-## 📂 Contents
+##  Contents
 
-### ✅ Test Cases
+###  Test Cases
 
 Located in `/01_Test_Cases`
 
 * Login Test Cases
 
-### 🐞 Bug Reports
+###  Bug Reports
 
 Located in `/02_Bug_Reports`
 
 * Login Issue Bug Report
 
-## 🛠 Tools Used
+##  Tools Used
 
 * Excel
 * Postman (learning)
 * Selenium (learning)
 
-## 👩‍💻 About Me
+## About Me
 
 I am a Software Engineering undergraduate and aspiring QA Engineer.
 Currently learning software testing and automation.
